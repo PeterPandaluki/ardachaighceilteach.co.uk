@@ -1,101 +1,79 @@
-baseurl         = "http://ardachaighceilteach.co.uk/"
-theme           = "meghna-hugo"
-languageCode    = "en-GB"
-title = "Ar Dachaigh Ceilteach"
-disqusShortname = ""
-paginate        = 6
 SectionPagesMenu = "main"
-
+baseurl = "http://ardachaighceilteach.co.uk/"
+disqusShortname = ""
+languageCode = "en-GB"
+paginate = 6
+theme = "meghna-hugo"
+title = "Ar Dachaigh Ceilteach"
+[[menu.main]]
+name = "Resources"
+url = "/categories/Resources/"
+weight = 12
+[[menu.main]]
+name = "Crafts"
+url = "/categories/Crafts/"
+weight = 3
+[[menu.main]]
+name = "Legends"
+url = "/categories/Legends/"
+weight = 6
+[[menu.main]]
+name = "Visiting"
+url = "/categories/Visiting/"
+weight = 11
+[[menu.main]]
+name = "Places"
+url = "/categories/Places/"
+weight = 10
+[[menu.main]]
+name = "Myths"
+url = "/categories/Myths/"
+weight = 9
+[[menu.main]]
+name = "Mysticism"
+url = "/categories/Mysticism/"
+weight = 8
+[[menu.main]]
+name = "Music"
+url = "/categories/Music/"
+weight = 7
+[[menu.main]]
+name = "Languages"
+url = "/categories/Languages/"
+weight = 5
+[[menu.main]]
+name = "History"
+url = "/categories/History/"
+weight = 4
+[[menu.main]]
+name = "Arts"
+url = "/tags/Arts/"
+weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 2
 [params]
-  title       = "Ar Dachaigh Ceiltach"
-  subtitle    = "Our Celtic Home"
-
-  background  = "images/ArDachaighCeilteach.jpg"
-  description = "Our Celtic Home"
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = ["css/custom.css"]
-  RSSLink = ""
-
-  twitterName = ""
-  fbName = ""
-  githubName = ""
-
-  logo = ""
-  orgName = "PP"
-  orgWebsite = ""
-  orgDescription = ""
-
-  author = "Cathal Seoin"
-  authorAvatar = ""
-  authorLocation = "Liverpool, UK"
-  authorWebsite = ""
-  authorDescription = "I am a Celtic author fascinated with Celtic music, magic and lore "
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  #singleViewStyle = "casper"
-
+RSSLink = ""
+author = "Cathal Seoin"
+authorAvatar = ""
+authorDescription = "I am a Celtic author fascinated with Celtic music, magic and lore "
+authorLocation = "Liverpool, UK"
+authorWebsite = ""
+background = "images/ArDachaighCeilteach.jpg"
+customCSS = ["css/custom.css"]
+description = "Our Celtic Home"
+fbName = ""
+githubName = ""
+googleAnalytics = ""
+logo = ""
+metaDescription = ""
+orgDescription = ""
+orgName = "PP"
+orgWebsite = ""
+pageNotFoundTitle = "404 - Page not found"
+subtitle = "Our Celtic Home"
+title = "Ar Dachaigh Ceiltach"
+twitterName = ""
 [permalinks]
-  post = "/:slug/"
-
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 83
-
-[[menu.main]]
-  name = "Arts"
-  url = "/tags/Arts/"
-  weight = 83
-
-[[menu.main]]
-  name = "History"
-  url = "/categories/History/"
-  weight = 91
-
-[[menu.main]]
-  name = "Languages"
-  url = "/categories/Languages/"
-  weight = 97
-
-  [[menu.main]]
-  name = "Music"
-  url = "/categories/Music/"
-  weight = 103
-
-[[menu.main]]
-  name = "Mysticism"
-  url = "/categories/Mysticism/"
-  weight = 107
-
-[[menu.main]]
-  name = "Myths"
-  url = "/categories/Myths/"
-  weight = 109  
-
-[[menu.main]]
-  name = "Places"
-  url = "/categories/Places/"
-  weight = 113  
-
-[[menu.main]]
-  name = "Visiting"
-  url = "/categories/Visiting/"
-  weight = 127
-
-[[menu.main]]
-  name = "Legends"
-  url = "/categories/Legends/"
-  weight = 101  
-
-[[menu.main]]
-    name = "Crafts"
-    url = "/categories/Crafts/"
-    weight = 89
-
-[[menu.main]]
-    name = "Resources"
-    url = "/categories/Resources/"
-    weight = 131
+post = "/:slug/"
