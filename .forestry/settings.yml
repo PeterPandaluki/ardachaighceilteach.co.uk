@@ -19,21 +19,6 @@ sections:
   label: Home
   create: all
   match: "**/*"
-- type: directory
-  path: content/Myths
-  label: Myths
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/History
-  label: History
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/Crafts
-  label: Crafts
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
