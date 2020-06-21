@@ -7,8 +7,6 @@ theme = "meghna-hugo"
 title = "Ar Dachaigh Ceilteach"
 # post excerpt
 summaryLength = "15"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
@@ -118,7 +116,7 @@ twitterName = ""
 post = "/:slug/"
 
 ############################# Default Parameters ##########################
-[params]
+# [params]
 logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
