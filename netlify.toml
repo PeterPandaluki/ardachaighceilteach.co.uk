@@ -3,5 +3,5 @@
   # command = "cd exampleSite && hugo --gc --themesDir ../"
   
 [build.environment]
-  HUGO_VERSION = "0.64.0"
+  HUGO_VERSION = "0.71.1"
   HUGO_THEME = "Meghna-Hugo"
