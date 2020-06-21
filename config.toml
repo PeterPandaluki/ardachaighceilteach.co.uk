@@ -1,0 +1,101 @@
+baseurl         = "http://ardachaighceilteach.co.uk/"
+theme           = "meghna-hugo"
+languageCode    = "en-GB"
+title = "Ar Dachaigh Ceilteach"
+disqusShortname = ""
+paginate        = 6
+SectionPagesMenu = "main"
+
+[params]
+  title       = "Ar Dachaigh Ceiltach"
+  subtitle    = "Our Celtic Home"
+
+  background  = "images/ArDachaighCeilteach.jpg"
+  description = "Our Celtic Home"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["css/custom.css"]
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = "PP"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Cathal Seoin"
+  authorAvatar = ""
+  authorLocation = "Liverpool, UK"
+  authorWebsite = ""
+  authorDescription = "I am a Celtic author fascinated with Celtic music, magic and lore "
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  #singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 83
+
+[[menu.main]]
+  name = "Arts"
+  url = "/tags/Arts/"
+  weight = 83
+
+[[menu.main]]
+  name = "History"
+  url = "/categories/History/"
+  weight = 91
+
+[[menu.main]]
+  name = "Languages"
+  url = "/categories/Languages/"
+  weight = 97
+
+  [[menu.main]]
+  name = "Music"
+  url = "/categories/Music/"
+  weight = 103
+
+[[menu.main]]
+  name = "Mysticism"
+  url = "/categories/Mysticism/"
+  weight = 107
+
+[[menu.main]]
+  name = "Myths"
+  url = "/categories/Myths/"
+  weight = 109  
+
+[[menu.main]]
+  name = "Places"
+  url = "/categories/Places/"
+  weight = 113  
+
+[[menu.main]]
+  name = "Visiting"
+  url = "/categories/Visiting/"
+  weight = 127
+
+[[menu.main]]
+  name = "Legends"
+  url = "/categories/Legends/"
+  weight = 101  
+
+[[menu.main]]
+    name = "Crafts"
+    url = "/categories/Crafts/"
+    weight = 89
+
+[[menu.main]]
+    name = "Resources"
+    url = "/categories/Resources/"
+    weight = 131
