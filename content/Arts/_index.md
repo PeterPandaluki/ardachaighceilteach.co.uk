@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
+title: "Celtic Art"
+subtitle: ""
+image: "celtic-cross-2-1226573.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
+categories: [ "Crafts" ]
 tags: [ "<TAG>" ]
-#images_directory; "images"
+images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -22,10 +22,4 @@ tags: [ "<TAG>" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+A drawing is worth a thousand words...

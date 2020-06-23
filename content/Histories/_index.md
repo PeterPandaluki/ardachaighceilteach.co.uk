@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
+title: "Celtic History"
+subtitle: ""
+image: "harlech-castle-wales-1495274.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
+categories: [ "History" ]
 tags: [ "<TAG>" ]
-#images_directory; "images"
+images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:

@@ -1,0 +1,184 @@
+SectionPagesMenu = "main"
+baseurl = "http://ardachaighceilteach.co.uk/"
+disqusShortname = ""
+languageCode = "en-GB"
+paginate = 6
+theme = "hugo-myportfolio-theme"
+title = "Ar Dachaigh Ceilteach"
+# post excerpt
+summaryLength = "15"
+# disable language
+disableLanguages = ["Fr"]
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+
+
+[[menu.main]]
+name = "Resources"
+url = "/categories/Resources/"
+weight = 12
+[[menu.main]]
+name = "Crafts"
+url = "/categories/Crafts/"
+weight = 3
+[[menu.main]]
+name = "Legends"
+url = "/categories/Legends/"
+weight = 6
+[[menu.main]]
+name = "Visiting"
+url = "/categories/Visiting/"
+weight = 11
+[[menu.main]]
+name = "Places"
+url = "/categories/Places/"
+weight = 10
+[[menu.main]]
+name = "Myths"
+url = "/categories/Myths/"
+weight = 9
+[[menu.main]]
+name = "Mysticism"
+url = "/categories/Mysticism/"
+weight = 8
+[[menu.main]]
+name = "Music"
+url = "/categories/Music/"
+weight = 7
+[[menu.main]]
+name = "Languages"
+url = "/categories/Languages/"
+weight = 5
+[[menu.main]]
+name = "History"
+url = "/categories/History/"
+weight = 4
+[[menu.main]]
+name = "Arts"
+url = "/tags/Arts/"
+weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 2
+[params]
+RSSLink = ""
+author = "Cathal Seoin"
+authorAvatar = ""
+authorDescription = "I am a Celtic author fascinated with Celtic music, magic and lore "
+authorLocation = "Liverpool, UK"
+authorWebsite = ""
+background = "images/ArDachaighCeilteach.jpg"
+customCSS = ["css/custom.css"]
+description = "Our Celtic Home"
+fbName = ""
+githubName = ""
+googleAnalytics = ""
+logo = ""
+metaDescription = ""
+orgDescription = ""
+orgName = "PP"
+orgWebsite = ""
+pageNotFoundTitle = "404 - Page not found"
+subtitle = "Our Celtic Home"
+title = "Ar Dachaigh Ceiltach"
+twitterName = ""
+[permalinks]
+post = "/:slug/"
+
+############################# Default Parameters ##########################
+# [params]
+logo = "images/logo.png"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analytics
+google_analytics_id = "" # Your ID
+# post share
+post_share = true
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+############################# social icons ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-gb"
+contentDir = "content"
+weight = 1
+home = "Home"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+
+# ################################ France Language ########################
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 2
+# home = "Accueil"
+# copyright = "copyright et copie; 2020 [gethugothemes] (https://gethugothemes.com) tous droits réservés"

@@ -1,6 +1,6 @@
 ---
-title: "Arts"
-date: 2020-06-21T13:33:39+01:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
 tags: []
 categories: []

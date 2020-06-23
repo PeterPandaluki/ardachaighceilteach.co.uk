@@ -1,13 +1,26 @@
 ---
+title: "Celtic Crafts"
+sections_title: "Categories"
+#sections_order: "weight"
+#sections_order_reverse: false
+posts_title: "Projects"
+---
+
+Here are the different categories...
+
+
+
+
+<!-- ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
+title: "Celtic Crafts"
+subtitle: ""
+image: "celtic-cross-2-1226573.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
+categories: [ "Crafts" ]
 tags: [ "<TAG>" ]
-#images_directory; "images"
+# images_directory: "/images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -20,12 +33,4 @@ tags: [ "<TAG>" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
----
-
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+--- -->
