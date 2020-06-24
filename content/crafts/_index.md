@@ -1,10 +1,28 @@
 ---
+title: "Crafts"
+showsections: true                #default: true
+sections_title: "Crafts"
+sections_order: "title"  #default: "title"
+#sections_order_reverse: <BOOL>      #default: false
+showposts: true                   #default: true
+posts_title: "<POSTS_TYPE>"
+#posts_order: "<METADATA_FIELD>"     #default: "date"
+#posts_order_reverse: <BOOL>         #default: true
+#showbrothers: <BOOL>                #default: true
+---
+
+
+
+
+<!-- ---
 title: "Celtic Crafts"
-sections_title: "Categories"
-#sections_order: "weight"
+sections_title: "Crafts"
+sections_order: "weight"
 #sections_order_reverse: false
 posts_title: "Projects"
----
+--- -->
+
+
 
 Here are the different categories...
 

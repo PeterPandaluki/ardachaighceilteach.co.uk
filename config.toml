@@ -73,11 +73,17 @@ theme = "hugo-myportfolio-theme"
             # services = "SERVICES"
             # skills   = "SKILLS" 
             projects = [
-                { section = "Arts", label = "ARTS" },
-                { section = "Crafts", label = "CRAFTS" },
-                { section = "Histories", label = "HISTORY"},
-                { section = "Languages", label = "LANGUAGES"},
-                { section = "Legends", label = "LEGENDS"}
+                { section = "art", label = "ARTS" },
+                { section = "crafts", label = "CRAFTS" },
+                { section = "histories", label = "HISTORY"},
+                { section = "languages", label = "LANGUAGES"},
+                { section = "legends", label = "LEGENDS"},
+                { section = "music", label = "MUSIC"},
+                { section = "mysticism", label = "MYSTICISM"},
+                { section = "myths", label = "MYTHS"},
+                { section = "places", label = "PLACES"},
+                { section = "resources", label = "RESOURCES"},
+                { section = "visiting", label = "VISIT"}
             ]
             contact  = "CONTACT"
 
@@ -87,7 +93,7 @@ theme = "hugo-myportfolio-theme"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "Arts", "Crafts", "Histories", "Languages", "Legends"]
+        categories = [ "art", "crafts", "histories", "languages", "legends", "music", "mysticism", "myths", "places", "resources", "visiting"]
 
         # Post orders:
         # - list of posts:
