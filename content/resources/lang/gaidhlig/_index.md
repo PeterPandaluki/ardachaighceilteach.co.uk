@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Gaidhlig"
+title: "Gàidhlig"
 subtitle: ""
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"

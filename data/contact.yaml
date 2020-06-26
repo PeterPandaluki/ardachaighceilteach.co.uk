@@ -2,19 +2,21 @@
 title: "CONTACT"
 background_image: "contact.jpg"
 photo: "user-tie.png"
-description: "Very short text with a call to action."
+description: "Contact Cathal with questions or suggestions below:"
 
 email:
-  address: "your.email@somewhere.com"
+  address: "cathal.seoin@virginmedia.com"
   link: false
   icon: "fa-envelope"
   icon-pack: "fas"
 
 social:
-- icon: "fa-linkedin"
+- icon: "fa-twitter"
   icon_pack: "fab"
-  link: "//linkedin.com"
-- icon: "fa-github"
+  link: "https://twitter.com/@CSeoin"
+- icon: "fa-patreon"
   icon_pack: "fab"
-  link: "//github.com"
+  link: "https://www.patreon.com/cathalSeoin?fan_landing=true"
 ---
+
+  
