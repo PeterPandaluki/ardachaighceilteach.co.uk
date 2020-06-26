@@ -1,11 +1,11 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
+title: "Gaidhlig"
 subtitle: ""
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "crafts" ]
+categories: [ "languages" ]
 tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"

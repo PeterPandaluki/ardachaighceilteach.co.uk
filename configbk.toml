@@ -5,40 +5,40 @@ languageCode = "en-GB"
 paginate = 6
 theme = "hugo-myportfolio-theme"
 title = "Ar Dachaigh Ceilteach"
-# post excerpt
-summaryLength = "15"
-# disable language
-disableLanguages = ["Fr"]
+# # post excerpt
+# summaryLength = "15"
+# # disable language
+# disableLanguages = ["Fr"]
 
-############################# Plugins ##########################
-# css plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
-[[params.plugins.css]]
-link = "plugins/magnific-popup/magnific-popup.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.css"
-[[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+# ############################# Plugins ##########################
+# # css plugins
+# [[params.plugins.css]]
+# link = "plugins/bootstrap/bootstrap.min.css"
+# [[params.plugins.css]]
+# link = "plugins/themify-icons/themify-icons.css"
+# [[params.plugins.css]]
+# link = "plugins/magnific-popup/magnific-popup.css"
+# [[params.plugins.css]]
+# link = "plugins/slick/slick.css"
+# [[params.plugins.css]]
+# link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
 
-# js plugins
-[[params.plugins.js]]
-link = "plugins/jquery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
-[[params.plugins.js]]
-link = "plugins/lazy-load/lozad.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
+# # js plugins
+# [[params.plugins.js]]
+# link = "plugins/jquery/jquery.min.js"
+# [[params.plugins.js]]
+# link = "plugins/bootstrap/bootstrap.min.js"
+# [[params.plugins.js]]
+# link = "plugins/slick/slick.min.js"
+# [[params.plugins.js]]
+# link = "plugins/shuffle/shuffle.min.js"
+# [[params.plugins.js]]
+# link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+# [[params.plugins.js]]
+# link = "plugins/lazy-load/lozad.min.js"
+# [[params.plugins.js]]
+# link = "plugins/google-map/map.js"
 
 
 

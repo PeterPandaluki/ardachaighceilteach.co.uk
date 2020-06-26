@@ -1,18 +1,18 @@
 ---
 # Template for subsections, such as a company or a category.
 title: "Welsh Love Spoons"
-subtitle: "<POSITION>"
+subtitle: ""
 #startDate: "YYYY-MM-DD"
 #endDate: "YYYY-MM-DD"
-#image: "<IMAGE_FILE>"
+image: "Welsh-Love-Spoon.jpg"
 #image_copyright: "<TEXT>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-#showposts: <BOOL>               #default: true
-posts_title: "<POSTS_TYPE>"
+showposts: true              #default: true
+posts_title: ""
 #posts_order: "<METADATA_FIELD>" #default: "date"
 #posts_order_reverse: <BOOL>     #default: true
-#showbrothers: <BOOL>            #default: true
+showbrothers: true           #default: true
 ---
 
 <b>DESCRIPTION</b><br>

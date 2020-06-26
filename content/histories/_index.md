@@ -5,9 +5,9 @@ subtitle: ""
 image: "harlech-castle-wales-1495274.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "History" ]
-tags: [ "<TAG>" ]
-images_directory: "images"
+categories: [ "histories" ]
+tags: [ "" ]
+# images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:

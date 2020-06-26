@@ -1,11 +1,11 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
+title: "Music"
 subtitle: ""
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "crafts" ]
+categories: [ "music" ]
 tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
