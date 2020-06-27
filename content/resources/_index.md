@@ -10,7 +10,7 @@ posts_title: ""
 #posts_order: "<METADATA_FIELD>"     #default: "date"
 #posts_order_reverse: <BOOL>         #default: true
 #showbrothers: <BOOL>                #default: true
-image: "celtic-cross-2-1226573.jpg"
+image: "clem-onojeghuo-SgthjOHW6ec-unsplash.jpg"
 tags: []
 categories: []
 ---

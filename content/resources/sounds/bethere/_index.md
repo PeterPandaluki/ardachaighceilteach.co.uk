@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Be There"
+subtitle: "Live Music"
+image: "crowd.jpg"
+small_image: "crowd_med.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "music" ]
+tags: [ "live music" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

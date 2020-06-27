@@ -2,11 +2,11 @@
 # Template for projects.
 title: "Gàidhlig"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "flag_Scots.jpg"
+small_image: "flag_Scots_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "" ]
+tags: [ "scottish", "gàidhlig" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

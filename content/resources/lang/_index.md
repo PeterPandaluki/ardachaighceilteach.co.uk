@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Languages"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "study.jpg"
+small_image: "study_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "" ]

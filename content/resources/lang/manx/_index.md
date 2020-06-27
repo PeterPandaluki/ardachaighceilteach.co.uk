@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Manx"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "motorcycle.jpg"
+small_image: "motorcycle_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "manx" ]

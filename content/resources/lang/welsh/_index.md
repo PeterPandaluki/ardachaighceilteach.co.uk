@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Welsh"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "wales_stream.jpg"
+small_image: "wales_stream_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "welsh" ]

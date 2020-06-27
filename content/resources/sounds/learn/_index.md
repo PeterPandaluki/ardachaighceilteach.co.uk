@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Learn to Play"
+subtitle: "Find Celtic music lessons"
+image: "drumkit.jpg"
+small_image: "drumkit_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
-#images_directory; "images"
+categories: [ "music" ]
+tags: [ "learn music", "learning" ]
+#images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:

@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Music"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "clem-onojeghuo-SgthjOHW6ec-unsplash.jpg"
+small_image: "violinist_less_med.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
 tags: [ "" ]
