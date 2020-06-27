@@ -6,7 +6,7 @@ image: "celtic-cross-2-1226573.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "Crafts" ]
-tags: [ "<TAG>" ]
+tags: [ "" ]
 images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
