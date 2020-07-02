@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Readers"
+title: "Places"
 subtitle: ""
-image: "reader.jpg"
-small_image: "reader_thumb.jpg"
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "languages" ]
-tags: [ "scottish", "gàidhlig" ]
+categories: [ "places" ]
+tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,4 +21,4 @@ tags: [ "scottish", "gàidhlig" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-Adding some content
+

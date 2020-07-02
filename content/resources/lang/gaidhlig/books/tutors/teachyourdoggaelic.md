@@ -1,5 +1,7 @@
 ---
 title: "Teach Your Dog Gaelic"
+categories: [ "languages" ]
+tags: [ "scottish", "gàidhlig" ]
 ---
 Teach your dog gaelic
 

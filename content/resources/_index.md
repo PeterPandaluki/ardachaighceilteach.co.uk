@@ -5,14 +5,14 @@ showsections: true                #default: true
 sections_title: ""
 sections_order: "title"  #default: "title"
 #sections_order_reverse: <BOOL>      #default: false
-showposts: true                   #default: true
-posts_title: ""
+# showposts: true                   #default: true
+# posts_title: ""
 #posts_order: "<METADATA_FIELD>"     #default: "date"
 #posts_order_reverse: <BOOL>         #default: true
 #showbrothers: <BOOL>                #default: true
 image: "clem-onojeghuo-SgthjOHW6ec-unsplash.jpg"
-tags: []
-categories: []
+tags: ["music"]
+categories: ["resources"]
 ---
-
+Content
 
