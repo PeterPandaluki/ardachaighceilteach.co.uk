@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Books"
-subtitle: "Cornish language books"
+title: "The use of Gaidhlig in Scotland."
+subtitle: "approaching crititical"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "languages" ]
-tags: [ "books", "cornish" ]
+categories: [ "news" ]
+tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,10 +22,3 @@ tags: [ "books", "cornish" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

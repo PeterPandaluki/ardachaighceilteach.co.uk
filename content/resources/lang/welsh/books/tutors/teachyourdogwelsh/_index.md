@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Books"
-subtitle: "Cornish language books"
+title: "Teach Your Dog Welsh"
+subtitle: "Beginning Welsh"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+#small_image: "teachdogwelsh.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "books", "cornish" ]
+tags: [ "books", "tutors", "welsh" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,10 +22,4 @@ tags: [ "books", "cornish" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+[Teach Your Dog Welsh](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Welsh/24849820) is an illustrated basic introduction to the Welsh language.

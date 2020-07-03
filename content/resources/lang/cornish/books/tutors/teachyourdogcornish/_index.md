@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Books"
-subtitle: "Cornish language books"
+title: "Teach Your Dog Cornish"
+subtitle: "Beginning the Cornish Language"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "9781912631100.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "books", "cornish" ]
+tags: [ "cornish" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,11 +21,4 @@ tags: [ "books", "cornish" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+[Teach Your Dog Cornish](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Cornish/23963705) is one of the few books availale for learners of the Cornish language. It is an easy-going, illustrated introduction for beginners. 

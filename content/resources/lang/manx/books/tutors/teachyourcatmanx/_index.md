@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Books"
-subtitle: "Cornish language books"
+title: "Teach Your Cat Manx"
+subtitle: "Beginning the Manx language"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "teachcatmanx.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "books", "cornish" ]
+tags: [ "books", "tutors", "manx" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,10 +22,4 @@ tags: [ "books", "cornish" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+[Teach Your Cat Manx](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Cat-Manx/24809972) is a humourous, illustrated introduction to Manx. 

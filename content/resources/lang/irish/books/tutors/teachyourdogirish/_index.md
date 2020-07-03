@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Books"
-subtitle: "Cornish language books"
+title: "Teach Your Dog Irish"
+subtitle: "Beginning the Irish language"
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "teachdogirish.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "books", "cornish" ]
+tags: [ "bookes", "tutors", "irish" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,10 +22,4 @@ tags: [ "books", "cornish" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>
+[Teach Your Dog Irish](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Irish/23963704) is a light-hearted illustrated introduction to the Irish language.

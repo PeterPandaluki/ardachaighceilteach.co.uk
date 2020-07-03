@@ -20,6 +20,7 @@ tags: [ "scottish", "gàidhlig" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
+# list: [ "teachyourdoggaelic.md" ]
 ---
 
 

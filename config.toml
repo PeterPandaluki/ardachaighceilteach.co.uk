@@ -8,6 +8,7 @@ baseurl = "https://www.ardachaighceilteach.co.uk/"
 languageCode = "en-gb"
 title = "Ar Dachaigh Ceilteach"
 theme = "hugo-myportfolio-theme"
+# theme = "persian-hugo"
 
 
 [params]
@@ -25,8 +26,8 @@ theme = "hugo-myportfolio-theme"
 
     [params.meta]
         # To provide some metadata for search engines (OPTIONAL)
-        author = "<AUTHOR>"
-        description = "<DESCRIPTION>"
+        author = "Cathal Seoin"
+        description = "Celebration of all things Celtic"
 
         # The path must be relative to the static folder (MANDATORY)
         favicon = "favicon.ico"
@@ -83,7 +84,8 @@ theme = "hugo-myportfolio-theme"
                 { section = "places", label = "PLACES"},
                 { section = "sounds", label = "SOUNDS"},
                 { section = "resources", label = "RESOURCES"},
-                { section = "visiting", label = "VISIT"}
+                { section = "visiting", label = "VISIT"},
+                { section = "post", label = "NEWS"}
             ]
             contact  = "CONTACT"
 
@@ -93,7 +95,7 @@ theme = "hugo-myportfolio-theme"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "art", "crafts", "histories", "languages", "legends", "mysticism", "myths", "places", "resources", "sounds", "visiting"]
+        categories = [ "art", "crafts", "histories", "languages", "legends", "mysticism", "myths", "places", "resources", "sounds", "visiting", "post"]
 
         # Post orders: 
         # - list of posts:

@@ -17,11 +17,11 @@
     {{ end }}
 
     {{ .Content}}
-        <!-- <div>
+        <div>
         {{ . | markdownify }}
         <hr>
         </div>
-    {{ end }} -->
+    {{ end }}
 
     {{ $images_directory := .Params.images_directory | default "images" }}
     {{ $images_static := .Params.images_static | default "false" }}
