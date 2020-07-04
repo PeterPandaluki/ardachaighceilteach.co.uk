@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Welsh"
+title: "Learn Welsh"
 subtitle: ""
 image: "wales_stream.jpg"
 small_image: "wales_stream_thumb.jpg"
@@ -22,10 +22,3 @@ tags: [ "welsh" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

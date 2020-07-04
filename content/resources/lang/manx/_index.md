@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Manx"
+title: "Learn Manx"
 subtitle: ""
 image: "motorcycle.jpg"
 small_image: "motorcycle_thumb.jpg"
@@ -21,11 +21,3 @@ tags: [ "manx" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

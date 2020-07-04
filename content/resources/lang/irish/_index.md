@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Irish"
+title: "Learn Irish"
 subtitle: ""
 image: "irish_flag.jpg"
 small_image: "irish_flag_thumb.jpg"
@@ -22,10 +22,3 @@ tags: [ "irish" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

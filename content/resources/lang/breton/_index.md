@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Breton"
+title: "Learn Breton"
 subtitle: ""
 image: "coastal.jpg"
 small_image: "coastal_thumb.jpg"
@@ -22,10 +22,3 @@ tags: [ "breton" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

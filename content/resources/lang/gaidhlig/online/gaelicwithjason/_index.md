@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Online learning"
-subtitle: "Online tutorials and resources"
-image: "laptop_jpg"
-small_image: "laptop_thumb.jpg"
+title: "Gaelic with Jason"
+subtitle: "Free introductory Gaelic lessons"
+#image: "<IMAGE_FILE>"
+small_image: "unnamed.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "manx", "online" ]
-# images_directory: "images"
+tags: [ "online", "gaelic", "gaidhlig", "free" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -20,5 +20,16 @@ tags: [ "manx", "online" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
+#  list: ["gaelicwithjason.md"]
 ---
+
+
+
+
+
+
+
+
+
+
 

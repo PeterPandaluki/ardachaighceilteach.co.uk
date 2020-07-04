@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Gàidhlig"
+title: "Learn Gàidhlig"
 subtitle: ""
 image: "flag_Scots.jpg"
 small_image: "flag_Scots_thumb.jpg"

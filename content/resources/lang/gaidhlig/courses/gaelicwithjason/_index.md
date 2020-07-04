@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Online learning"
-subtitle: "Online tutorials and resources"
-image: "laptop_jpg"
-small_image: "laptop_thumb.jpg"
+title: "<PROJECT_NAME>"
+subtitle: "<CATCH_PHRASE>"
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "languages" ]
-tags: [ "manx", "online" ]
-# images_directory: "images"
+categories: [ "<CATEGORY>" ]
+tags: [ "<TAG>" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:

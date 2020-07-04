@@ -1,6 +1,6 @@
 ---
 # Template for projects.
-title: "Cornish"
+title: "Learn Cornish"
 subtitle: ""
 image: "harbour.jpg"
 small_image: "harbour_thumb.jpg"
