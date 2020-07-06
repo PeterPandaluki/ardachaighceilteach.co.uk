@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Readers"
+title: "Progressive Gaelic"
 subtitle: ""
-image: "reader.jpg"
-small_image: "reader_thumb.jpg"
+#image: "PG1.jpg"
+small_image: "PG1.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "scottish", "gàidhlig" ]
+tags: [ "gaelic", "tutor", "study", "gàidhlig" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,3 +21,4 @@ tags: [ "scottish", "gàidhlig" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Readers"
+title: "Gaeilge Stuama"
 subtitle: ""
-image: "reader.jpg"
-small_image: "reader_thumb.jpg"
+# image: "unnamed1.jpg"
+small_image: "unnamed1.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "scottish", "gàidhlig" ]
+tags: [ "irish", "online", "video" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,3 +21,15 @@ tags: [ "scottish", "gàidhlig" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+
+### Learn to speak Irish in 15 minutes! 
+
+
+{{< youtube nOIsjUilUyM >}}
+
+---
+
+### What really is the "craic"? And tell me about "mar dhea", please!
+
+
+{{< youtube Gm6GY5gTL8U >}}
