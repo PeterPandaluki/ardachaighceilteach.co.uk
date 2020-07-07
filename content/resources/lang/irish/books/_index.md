@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Books"
 subtitle: "Irish language books"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "book.jpg"
+small_image: "book_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "books", "irish" ]

@@ -3,7 +3,7 @@
 title: "Gaeilge Stuama"
 subtitle: ""
 # image: "unnamed1.jpg"
-small_image: "unnamed1.jpg"
+small_image: "../unnamed1.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "irish", "online", "video" ]

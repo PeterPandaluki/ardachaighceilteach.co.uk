@@ -85,7 +85,7 @@ theme = "hugo-myportfolio-theme"
                 { section = "sounds", label = "SOUNDS"},
                 { section = "resources", label = "RESOURCES"},
                 { section = "visiting", label = "VISIT"},
-                { section = "post", label = "NEWS"}
+                # { section = "post", label = "NEWS"}
             ]
             contact  = "CONTACT"
 
@@ -95,7 +95,7 @@ theme = "hugo-myportfolio-theme"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "art", "crafts", "histories", "languages", "legends", "mysticism", "myths", "places", "resources", "sounds", "visiting", "post"]
+        categories = [ "art", "crafts", "histories", "languages", "legends", "mysticism", "myths", "places", "resources", "sounds", "visiting"]
 
         # Post orders: 
         # - list of posts:

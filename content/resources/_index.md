@@ -11,8 +11,8 @@ sections_order: "title"  #default: "title"
 #posts_order_reverse: <BOOL>         #default: true
 #showbrothers: <BOOL>                #default: true
 image: "clem-onojeghuo-SgthjOHW6ec-unsplash.jpg"
-tags: ["music"]
+tags: ["music", "languages"]
 categories: ["resources"]
+description: "Resources for exploring Celtic music, language and culture"
 ---
-
 

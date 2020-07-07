@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "<PROJECT_NAME>"
-subtitle: "<CATCH_PHRASE>"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Courses"
+subtitle: ""
+image: "notepad.jpg"
+small_image: "notepad_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "languages" ]
+tags: [ "irish" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,10 +22,4 @@ tags: [ "<TAG>" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
 
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

@@ -7,7 +7,7 @@ small_image: "study_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "" ]
-#images_directory; "images"
+# images_directory: "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -23,3 +23,12 @@ tags: [ "" ]
 ---
 
 
+
+{{< rawhtml >}}
+<p>
+    <a href="https://www.patreon.com/cathalSeoin?fan_landing=true" target="_blank">
+        <img alt="Please consider becoming a Patron" src="become_a_patron_small.jpg"
+        width="150" height="70">
+     </a>
+</p>
+{{< /rawhtml >}}

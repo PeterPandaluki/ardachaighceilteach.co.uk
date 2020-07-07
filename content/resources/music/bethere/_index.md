@@ -22,10 +22,7 @@ tags: [ "live music" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
+### Coronavirus notice.  
 
-<b>DESCRIPTION:</b><br>
-...<br>
 
-<b>ROLE:</b><br>
-...<br>
+At the moment, there are no live music events.
