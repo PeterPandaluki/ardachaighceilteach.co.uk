@@ -29,3 +29,39 @@ tags: [ "irish" ]
 
 ---
 
+### Irish Lesson #2 - Making Basic Sentences  
+
+{{< youtube eC9DNZCK5p0 >}}  
+
+---  
+
+### Irish Lesson #3 - More About "How Are You?"  
+
+{{< youtube cEiS16QJR5E >}}  
+
+---  
+
+### Irish Lesson #4 - The Negative of Tá  
+
+{{< youtube 7zIaG4K8t0k >}}  
+
+---  
+
+### Irish Lesson #5 - The Question Forms of Tá  
+
+{{< youtube NdSiO5TP1Ig >}}  
+
+---  
+
+### Irish Lesson #6 - Answering Questions  
+
+{{< youtube i_0VYaJmRcg >}}  
+
+---  
+
+### Irish Lesson #7 - Full Answers After "Yes" & "No"  
+
+{{< youtube UWO832OAbXI >}}
+
+---  
+

@@ -1,14 +1,14 @@
 ---
 # Template for projects.
-title: "Celtic Myths"
+title: "Recommended Reading"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "bookshop.jpg"
+small_image: "bookshop_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "myths" ]
-tags: [ "" ]
-#images_directory; "images"
-#images_static: "false"
+categories: [ "mysticism" ]
+tags: [ "reading", "books" ]
+images_directory: "/images"
+images_static: "true"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
 # (Only required for caption and specific copyrights)
@@ -21,8 +21,15 @@ tags: [ "" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 {{< rawhtml >}}
 <a href="https://www.patreon.com/bePatron?u=37655427" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}}  
+
+
+
+Support your local bookshop.
+
+
+---
+

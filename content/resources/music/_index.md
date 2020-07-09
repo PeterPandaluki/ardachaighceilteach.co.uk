@@ -2,7 +2,7 @@
 # Template for projects.
 title: "Music"
 subtitle: ""
-image: "clem-onojeghuo-SgthjOHW6ec-unsplash.jpg"
+image: "Violinist_large.jpg"
 small_image: "violinist_less_med.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
@@ -22,4 +22,7 @@ tags: [ "" ]
 #  title: "<TOOLTIP>"
 ---
 
+{{< rawhtml >}}
+<a href="https://www.patreon.com/bePatron?u=37655427" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+{{< /rawhtml >}}
