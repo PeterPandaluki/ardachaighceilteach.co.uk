@@ -19,7 +19,7 @@ tags: [ "gaelic", "pronunciation" ]
 ##For "logo" image files:
 #resources:
 #- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+#  title: "<TOOLTIP>"  
 ---
    
 ### Rt Sounds in Scottish Gaelic   
