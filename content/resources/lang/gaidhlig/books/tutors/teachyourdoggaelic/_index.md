@@ -22,4 +22,9 @@ tags: [ "gaelic" ]
 #  title: "<TOOLTIP>"
 ---
 
-[Teach Your Dog Gaelic](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Gaelic/23963706) is an easy-going, illustrated introduction to the Gaidhlig language.
+{{< rawhtml >}}
+<a href="https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Gaelic/23963706"  target="_blank"><img src="/images/teachdoggaelic.jpg"></a>
+{{< /rawhtml >}}
+
+
+[Teach Your Dog Gaelic](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Gaelic/23963706) is an easy-going, illustrated introduction to the Gaidhlig language. It is aprticularly good for beginners and dog lovers.

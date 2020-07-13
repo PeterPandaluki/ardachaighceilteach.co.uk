@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Celtic History"
-subtitle: ""
-image: "castle_bridge.jpg"
-small_image: "castle_bridge_thumb.jpg"
+title: "The Story of the Seven Sisters"
+subtitle: "as told by Mary Blodwyn Owen, Blaenau Ffestiniog, 1975"
+image: "sisters.jpg"
+small_image: "sisters-thumb.jpg"
 #small_url: "<URL>"
-categories: [ "histories" ]
-tags: [ "" ]
-# images_directory: "images"
+categories: [ "legends" ]
+tags: [ "tales", "welsh", "wales", "gwynedd" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -21,5 +21,4 @@ tags: [ "" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 

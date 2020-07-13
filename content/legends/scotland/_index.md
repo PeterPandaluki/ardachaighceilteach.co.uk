@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Celtic History"
-subtitle: ""
-image: "castle_bridge.jpg"
-small_image: "castle_bridge_thumb.jpg"
+title: "Scotland"
+subtitle: "Legends and tales from Scotland"
+image: "ben_nevis.jpg"
+small_image: "ben_nevis_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "histories" ]
-tags: [ "" ]
-# images_directory: "images"
+categories: [ "legends" ]
+tags: [ "scottish", "scotland", "tales" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -19,7 +19,6 @@ tags: [ "" ]
 ##For "logo" image files:
 #resources:
 #- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+#  title: "<TOOLTIP>" 
 ---
-
 

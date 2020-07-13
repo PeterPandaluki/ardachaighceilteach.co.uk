@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Celtic History"
-subtitle: ""
-image: "castle_bridge.jpg"
-small_image: "castle_bridge_thumb.jpg"
+title: "Cornwall"
+subtitle: "Legends and tales from Cornwall"
+image: "landsend.jpg"
+small_image: "landsend_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "histories" ]
-tags: [ "" ]
-# images_directory: "images"
+categories: [ "legends" ]
+tags: [ "cornish", "cornwall", "tales" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -21,5 +21,4 @@ tags: [ "" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 

@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Legends"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "legends.jpg"
+small_image: "legends_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "legends" ]
 tags: [ "" ]

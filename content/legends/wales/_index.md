@@ -1,13 +1,13 @@
 ---
 # Template for projects.
-title: "Celtic History"
-subtitle: ""
-image: "castle_bridge.jpg"
-small_image: "castle_bridge_thumb.jpg"
+title: "Wales"
+subtitle: "Legends and tales from Wales"
+image: "wales_snowdon.jpg"
+small_image: "wales_snowdon_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "histories" ]
-tags: [ "" ]
-# images_directory: "images"
+categories: [ "legends" ]
+tags: [ "wales", "welsh", "tales" ]
+#images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
 ##For "image" image files:
@@ -21,5 +21,4 @@ tags: [ "" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 
