@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Welsh"
+title: "Gàidhlig"
 subtitle: ""
-image: "menai.jpg"
-small_image: "menai_thumb.jpg"
+image: "glencoe.jpg"
+small_image: "glencoe_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "welsh" ]
+tags: [ "gàidhlig", "gaelic" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,4 +22,3 @@ tags: [ "welsh" ]
 #  title: "<TOOLTIP>"
 ---
 
-[Learn Welsh](/resources/lang/welsh/)

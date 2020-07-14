@@ -6,7 +6,7 @@ subtitle: "Beginning Scots Gaelic"
 small_image: "teachdoggaelic.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "gaelic" ]
+tags: [ "gaelic", "tutor", "study", "gàidhlig" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

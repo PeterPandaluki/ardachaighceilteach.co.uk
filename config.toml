@@ -28,6 +28,7 @@ theme = "hugo-myportfolio-theme"
         # To provide some metadata for search engines (OPTIONAL)
         author = "Cathal Seoin"
         description = "Celebration of all things Celtic"
+        sitename = "Ar Dachaigh Ceilteach"
 
         # The path must be relative to the static folder (MANDATORY)
         favicon = "favicon.ico"
