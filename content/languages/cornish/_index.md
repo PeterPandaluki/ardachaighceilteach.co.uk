@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Cornish"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "cornwall.jpg"
+small_image: "cornwall_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "cornish" ]

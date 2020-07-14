@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Irish"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "fourleafclover.jpg"
+small_image: "fourleafclover_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "irish" ]

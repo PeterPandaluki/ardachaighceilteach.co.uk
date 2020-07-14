@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Breton"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "guilliogmarch.jpg"
+small_image: "guilliogmarch_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "breton" ]
