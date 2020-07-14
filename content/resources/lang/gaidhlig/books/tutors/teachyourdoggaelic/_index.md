@@ -27,4 +27,4 @@ tags: [ "gaelic" ]
 {{< /rawhtml >}}
 
 
-[Teach Your Dog Gaelic](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Gaelic/23963706) is an easy-going, illustrated introduction to the Gaidhlig language. It is aprticularly good for beginners and dog lovers.
+[Teach Your Dog Gaelic](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Gaelic/23963706) is an easy-going, illustrated introduction to the Gaidhlig language. It is particularly good for beginners and dog lovers.
