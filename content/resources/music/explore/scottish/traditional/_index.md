@@ -38,5 +38,26 @@ tags: [ "explore", "traditional", "scottish", "laments" ]
 ---
 &nbsp;
 
+### Scottish Gaelic Music - Ba Mo Leanabh
+
+{{< youtube gnCI_kFuG3g >}}
+
+
+
+---
+
+<!-- {{< rawhtml >}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnCI_kFuG3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< /rawhtml >}}
+
+--- -->
+&nbsp;
+
+### A ghaoil, leig dhachaigh gum mhàthair mi
+
+{{< youtube oLUY_WLMQoc >}}
+
 
 
