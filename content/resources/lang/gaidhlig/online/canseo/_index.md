@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folk Tales."
-subtitle: ""
-image: "misty_valley.jpg"
-small_image: "misty_valley_thumb.jpg"
+title: "Can Seo"
+subtitle: "gaelic for beginners"
+#image: "<IMAGE_FILE>"
+small_image: "canseo.jpg"
 #small_url: "<URL>"
-categories: [ "legends" ]
-tags: [ "tales", "wales", "welsh" ]
+categories: [ "languages" ]
+tags: [ "online", "gaelic", "gaidhlig", "free" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,4 +21,5 @@ tags: [ "tales", "wales", "welsh" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+
 

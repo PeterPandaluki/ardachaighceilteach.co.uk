@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Welsh Legends"
 subtitle: ""
-image: "dragon.jpg"
-small_image: "dragon_thumb.jpg"
+image: "dragon_red.jpg"
+small_image: "dragon_red_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "legends" ]
 tags: [ "legends", "welsh", "wales" ]
