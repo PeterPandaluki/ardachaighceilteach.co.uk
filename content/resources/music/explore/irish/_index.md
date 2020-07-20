@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Scottish Music"
+title: "Irish Music"
 subtitle: ""
-image: "piper.jpg"
-small_image: "piper_thumb.jpg"
+image: "bodhran.jpg"
+small_image: "bodhran_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
-tags: [ "scottish", "music" ]
+tags: [ "music", "irish", "compilation" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

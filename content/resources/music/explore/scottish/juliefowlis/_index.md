@@ -2,11 +2,11 @@
 # Template for projects.
 title: "Julie Fowlis"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "JulieFowlisFull.jpg"
+small_image: "JulieFowlis.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "music" ]
+tags: [ "scottish", "laments" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

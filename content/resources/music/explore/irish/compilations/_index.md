@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Scottish Music"
+title: "Compilations"
 subtitle: ""
-image: "piper.jpg"
-small_image: "piper_thumb.jpg"
+image: "irish_bmc.jpg"
+small_image: "irish_bmc_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
-tags: [ "scottish", "music" ]
+tags: [ "irish", "compilations" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -20,5 +20,10 @@ tags: [ "scottish", "music" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
+---
+### Instrumental Traditional Irish Music Compilation
+
+{{< youtube -MTkYRHqaQs >}}
+
 ---
 
