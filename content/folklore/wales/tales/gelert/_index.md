@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "The Phantom Dog of Gwrych Castle"
-subtitle: ""
-image: "running_dog.jpg"
-small_image: "running_dog_thumb.jpg"
+title: "Gelert"
+subtitle: "The story of a faithful dog"
+image: "black_dog.jpg"
+small_image: "black_dog_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "legends" ]
-tags: [ "wales", "welsh", "tales" ]
+categories: [ "folklore" ]
+tags: [ "tales", "welsh", "wales", "gwynedd"  ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,9 +22,3 @@ tags: [ "wales", "welsh", "tales" ]
 #  title: "<TOOLTIP>"
 ---
 
-{{< rawhtml >}}
-<p>Just up the slope from Abergele Golf Club in North Wales, back nestling in the woods, lies Gwrych castle.</p>
-
-{{< /rawhtml >}}
-
-&nbsp;
