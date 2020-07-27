@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Maps"
-subtitle: "Places of interest"
-image: "map_europe.jpg"
-small_image: "map_europe_thumb.jpg"
+title: "News"
+subtitle: ""
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "places" ]
-tags: [ "maps" ]
+categories: [ "post" ]
+tags: [ "news" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,6 +21,4 @@ tags: [ "maps" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
-
 

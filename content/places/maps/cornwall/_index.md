@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Maps"
-subtitle: "Places of interest"
-image: "map_europe.jpg"
-small_image: "map_europe_thumb.jpg"
+title: "Cornwall"
+subtitle: ""
+image: "cornwall_flag.jpg"
+small_image: "cornwall_map_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "places" ]
-tags: [ "maps" ]
+tags: [ "maps", "cornwall" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,5 +22,15 @@ tags: [ "maps" ]
 #  title: "<TOOLTIP>"
 ---
 
+&nbsp;
+
+You can obtain further information by clicking on the location markers.
+
+&nbsp;
 
 
+<div class="thumbnail-container">
+  <div class="thumbnail">
+   <iframe src="/html/map_wales.html" frameborder="2" ></iframe>
+  </div>
+</div>

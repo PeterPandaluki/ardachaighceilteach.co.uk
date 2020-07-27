@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_8bec9c4d48ab4fe5b4923a62a2843c93 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_8bec9c4d48ab4fe5b4923a62a2843c93" ></div>
+        
+</body>
+<script>    
+    
+            var map_8bec9c4d48ab4fe5b4923a62a2843c93 = L.map(
+                "map_8bec9c4d48ab4fe5b4923a62a2843c93",
+                {
+                    center: [53.01115, -4.0239325],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8a00e9711f8e4bc0963185f6adb8ddae = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_8bec9c4d48ab4fe5b4923a62a2843c93);
+        
+    
+            var marker_d8b21329c9cf4d9590c3fb861295b0f2 = L.marker(
+                [53.008916000000006, -4.102199],
+                {}
+            ).addTo(map_8bec9c4d48ab4fe5b4923a62a2843c93);
+        
+    
+            var icon_d48cc968207d41dd96b8c974e1d40109 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "green", "markerColor": "darkpurple", "prefix": "glyphicon"}
+            );
+            marker_d8b21329c9cf4d9590c3fb861295b0f2.setIcon(icon_d48cc968207d41dd96b8c974e1d40109);
+        
+    
+        var popup_af1c5c781a564541bf065a9ab7595d3c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4678a7ac1bb4478db191088c909af5aa = $(`<div id="html_4678a7ac1bb4478db191088c909af5aa" style="width: 100.0%; height: 100.0%;">Gelert's Grave</div>`)[0];
+            popup_af1c5c781a564541bf065a9ab7595d3c.setContent(html_4678a7ac1bb4478db191088c909af5aa);
+        
+
+        marker_d8b21329c9cf4d9590c3fb861295b0f2.bindPopup(popup_af1c5c781a564541bf065a9ab7595d3c)
+        ;
+
+        
+    
+    
+            var marker_591b3946d0c44e4b8b5f9a5239aae513 = L.marker(
+                [53.013383999999995, -3.9456660000000006],
+                {}
+            ).addTo(map_8bec9c4d48ab4fe5b4923a62a2843c93);
+        
+    
+            var icon_5fa3fea277b24e0b9f96cc0332edc55a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "green", "markerColor": "darkpurple", "prefix": "glyphicon"}
+            );
+            marker_591b3946d0c44e4b8b5f9a5239aae513.setIcon(icon_5fa3fea277b24e0b9f96cc0332edc55a);
+        
+    
+        var popup_66a829ec4fdc4f26900a9d1aa41ec61b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8e660be7f2a94f2ab6c53663670c5760 = $(`<div id="html_8e660be7f2a94f2ab6c53663670c5760" style="width: 100.0%; height: 100.0%;">Seven Sisters</div>`)[0];
+            popup_66a829ec4fdc4f26900a9d1aa41ec61b.setContent(html_8e660be7f2a94f2ab6c53663670c5760);
+        
+
+        marker_591b3946d0c44e4b8b5f9a5239aae513.bindPopup(popup_66a829ec4fdc4f26900a9d1aa41ec61b)
+        ;
+
+        
+    
+</script>

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Maps"
-subtitle: "Places of interest"
-image: "map_europe.jpg"
-small_image: "map_europe_thumb.jpg"
+title: "Scotland"
+subtitle: ""
+image: "Flag_of_Scotland.png"
+small_image: "scottish_lion_flag.jpg"
 #small_url: "<URL>"
 categories: [ "places" ]
-tags: [ "maps" ]
+tags: [ "maps", "scotland" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,6 +21,15 @@ tags: [ "maps" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+&nbsp;
+
+You can obtain further information by clicking on the location markers.
+
+&nbsp;
 
 
-
+<div class="thumbnail-container">
+  <div class="thumbnail">
+   <iframe src="/html/map_wales.html" frameborder="2" ></iframe>
+  </div>
+</div>
