@@ -28,7 +28,7 @@ Many years ago, there was a prince of Eryri (roughly modern-day Snowdonia) who e
 &nbsp; 
 
 
-At this time, Prince Llewellyn, after years of waiting, had just been presented with an heir. He gathered all the local landowners for a celebration. As part of the celebration, the Prince had planned a hunt. On the day of the hunt, there came news of a large wolf in the area. Rather than cancel the hunt, the Prince decided to leave Gelert to protect his son and heir.
+At this time, Prince Llewellyn, after years of waiting, had just been presented with an heir. He gathered all the local landowners for a celebration. As part of the celebration, the Prince had planned a hunt. On the day of the hunt,    there came news of a large wolf in the area. Rather than cancel the hunt, the Prince decided to leave Gelert to protect his son and heir.
 &nbsp;
 
 
