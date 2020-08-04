@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Brittany"
-subtitle: ""
-image: "brittany_flag.png"
-small_image: "brittany_mapflag.png"
+title: "Druids"
+subtitle: "Priests, wise men, scientists, artists, musicians"
+image: "stonehenge.jpg"
+small_image: "stonehenge_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "places" ]
-tags: [ "maps", "brittany" ]
+categories: [ "histories" ]
+tags: [ "druids", "celtic" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,15 +22,3 @@ tags: [ "maps", "brittany" ]
 #  title: "<TOOLTIP>"
 ---
 
-&nbsp;
-
-You can obtain further information by clicking on the location markers.
-
-&nbsp;
-
-
-<div class="thumbnail-container">
-  <div class="thumbnail">
-   <iframe src="/html/map_Brittany.html" frameborder="2" ></iframe>
-  </div>
-</div>

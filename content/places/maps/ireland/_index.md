@@ -31,6 +31,6 @@ You can obtain further information by clicking on the location markers.
 
 <div class="thumbnail-container">
   <div class="thumbnail">
-   <iframe src="/html/map_wales.html" frameborder="2" ></iframe>
+   <iframe src="/html/map_Ireland.html" frameborder="2" ></iframe>
   </div>
 </div>

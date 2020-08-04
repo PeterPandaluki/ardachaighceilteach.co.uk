@@ -1,11 +1,11 @@
 ---
 # Template for projects.
-title: "News"
-subtitle: ""
+title: "Test"
+subtitle: "<CATCH_PHRASE>"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "post" ]
+categories: [ "posts" ]
 tags: [ "news" ]
 #images_directory; "images"
 #images_static: "false"
@@ -22,3 +22,4 @@ tags: [ "news" ]
 #  title: "<TOOLTIP>"
 ---
 
+Some text here

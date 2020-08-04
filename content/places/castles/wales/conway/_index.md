@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "News"
+title: "Conway Castle"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "conwaycastle.jpg"
+small_image: "conwaycastle_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "post" ]
-tags: [ "news" ]
+categories: [ "places" ]
+tags: [ "castles", "wales", "conway" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

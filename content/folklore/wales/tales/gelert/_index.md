@@ -41,3 +41,7 @@ A servant ran, gasping, into the room. He had not been aware of the Prince's ret
 
 
 The Prince had a special grave prepared in a field by the river, a field where Gelert often played. The grave is still there, marked by a stone. Bedd Gelert - Gelert's grave.
+
+---
+
+[Map - Gelert's Grave](/places/maps/wales)
