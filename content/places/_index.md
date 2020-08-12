@@ -22,3 +22,15 @@ tags: [ "" ]
 #  title: "<TOOLTIP>"
 ---
 
+## The Celtic World  
+
+---
+
+&nbsp;
+&nbsp;
+
+<div class="thumbnail-container">
+  <div class="thumbnail">
+   <iframe src="/html/map_All.html" frameborder="2" ></iframe>
+  </div>
+</div>
