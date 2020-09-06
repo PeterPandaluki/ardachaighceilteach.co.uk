@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
+title: "Legends"
 subtitle: ""
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "folklore", "legends", "cornwall", "tintagel", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

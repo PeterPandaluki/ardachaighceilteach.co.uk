@@ -66,6 +66,6 @@ The castle has an easily-accessed visitors' centre and gift shop which is well w
 
 Conwy can be approached from the north, south or from the beautiful Conwy valley. The A56 from Chester passes under the river and the town; the junctions each side of the river lead to the town. The northern approach leads the visitor across the river and provides excellent views of the castle. Approaching from the south, one first encounters the town walls. A one-way system helps traffic flow, guiding the traffic towards the river and a splendid view of the castle at the top end of a rather straight street lined by small shops and pubs.
 
-Parking can be tricky. There is a limited, and usually full, car-parking area on the quay-side, and a larger, more accessible one behind the main street reached by turning left at the roundabout immediately after passing the castle (if approaching from the north). There is a narrow arch, part of the town's walls, which is wide enough for one vehicle - pay attention to the rights of way.
+Parking can be tricky. There are limited, and usually full, car-parking areas on the quay-side and under the castle walls, and a larger, more accessible one behind the main street reached by turning left at the roundabout immediately after passing the castle (if approaching from the north). There is a narrow arch, part of the town's walls, which is wide enough for one vehicle - pay attention to the rights of way.
 
 Within Conwy and the surrounding areas, there is a wide choice of accommodation from hotels and guest houses to chalet and caravan parks.

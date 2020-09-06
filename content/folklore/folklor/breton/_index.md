@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
-subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Brittany"
+subtitle: "Legends and tales from Brittany"
+image: "carnac.jpg"
+small_image: "carnac_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "breton", "brittany", "tales", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

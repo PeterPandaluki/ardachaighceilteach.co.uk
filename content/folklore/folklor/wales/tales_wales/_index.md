@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
+title: "Folk Tales."
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "misty_valley.jpg"
+small_image: "misty_valley_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "tales", "wales", "welsh", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

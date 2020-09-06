@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
+title: "Glossary"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "glossary.jpg"
+small_image: "glossary_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "folklore" ]
+tags: [ "glossary" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
-subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Cornwall"
+subtitle: "Legends and tales from Cornwall"
+image: "landsend.jpg"
+small_image: "landsend_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "cornish", "cornwall", "tales", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

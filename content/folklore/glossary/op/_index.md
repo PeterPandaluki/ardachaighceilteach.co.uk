@@ -1,9 +1,9 @@
 ---
 # Template for projects.
-title: "Folklore"
+title: "O to P"
 subtitle: ""
 #image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+small_image: "op.jpg"
 #small_url: "<URL>"
 categories: [ "<CATEGORY>" ]
 tags: [ "<TAG>" ]

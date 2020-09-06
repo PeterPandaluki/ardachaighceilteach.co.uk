@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
-subtitle: ""
+title: "Legends"
+subtitle: "Legends from the Emerald Isle"
 #image: "<IMAGE_FILE>"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "ireland", "eirin", "legends", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
-subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Scotland"
+subtitle: "Legends and tales from Scotland"
+image: "ben_nevis.jpg"
+small_image: "ben_nevis_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "scottish", "scotland", "tales", "folklore" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -19,6 +19,6 @@ tags: [ "<TAG>" ]
 ##For "logo" image files:
 #resources:
 #- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+#  title: "<TOOLTIP>" 
 ---
 

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Folklore"
-subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Isle of Mann"
+subtitle: "Legends and tales from the Isle of Mann"
+image: "ocean_waves.jpg"
+small_image: "ocean_waves_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "legends" ]
+tags: [ "manx", "mann", "tales", "folklore"]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
