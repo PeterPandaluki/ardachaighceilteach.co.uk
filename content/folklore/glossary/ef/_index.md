@@ -21,4 +21,10 @@ tags: [ "<TAG>" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+{{<figure src = "images/e.png">}}
 
+---
+
+
+
+{{<figure src = "images/f.png">}}
