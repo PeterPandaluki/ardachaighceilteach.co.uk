@@ -22,6 +22,12 @@ tags: [ "<TAG>" ]
 #  title: "<TOOLTIP>"
 ---
 {{<figure src = "images/c.png">}}
+<br>
+### Céilidh (kay-lee)  
+A gathering.  
+Often a celebration with music, singing, dancing, stories. Nowadays, most often associated with traditional music and dance.  
+<br>
+
 
 
 ---

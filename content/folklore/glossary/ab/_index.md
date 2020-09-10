@@ -48,7 +48,7 @@ A mysterious and  ancient Welsh term that is variously tranlated as "poetic insi
 
 ### Banshee (Bean sidhe)  
 An inhabitant of the Otherworld known for its dreadful wailing cries. It is said that the cry of the banshee can be a warning of an impending in the family or among friends.   
-Bean sidhe means 'female faeries'.  
+Bean sidhe (pronounced "ban-shee") means 'female faeries'.  
 <br>
 
 ### Boggart  

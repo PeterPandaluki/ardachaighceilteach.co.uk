@@ -22,6 +22,13 @@ tags: [ "<TAG>" ]
 #  title: "<TOOLTIP>"
 ---
 {{<figure src = "images/o.png">}}
+<br>
+### The Otherworld  
+The spiritual dimension that exists parallel to the observed universe.  
+The Otherworld pervades all. It is not only elsewhere but is within. We all
+have access to the Otherworld through our inner being - our soul. The inherent
+interconnectedness and all-pervading nature of the Otherworld is seen in the
+interweaving visual metaphore of the celtic knot.  
 
 
 ---
