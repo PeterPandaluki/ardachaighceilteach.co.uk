@@ -21,7 +21,18 @@ tags: [ "<TAG>" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-{{<figure src = "images/e.png">}}
+{{<figure src = "images/e.png">}}  
+
+<br>
+
+### Eisteddfod  
+
+A coming together of practitioners of the bardic arts, poets, musicians in order to compete for prizes and titles. In Wales, there is an annual National Eisteddfod, Yr Eisteddfod Genedlaethol Gymru, For a celebration of welsh language arts and music in a festival lasting eight days.  
+
+As well as numerous local eisteddfodau held around the country, there is also an annual youth eisteddfod, Yr Eisteddfod Yr Urdd, for the under 25 age group, and the International Eisteddfod held every year at Llangollen in North Wales.  
+
+<br>
+
 
 ---
 

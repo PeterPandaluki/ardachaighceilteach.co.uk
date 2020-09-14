@@ -50,6 +50,9 @@ A mysterious and  ancient Welsh term that is variously tranlated as "poetic insi
 An inhabitant of the Otherworld known for its dreadful wailing cries. It is said that the cry of the banshee can be a warning of an impending in the family or among friends.   
 Bean sidhe (pronounced "ban-shee") means 'female faeries'.  
 <br>
+### Bard  
+A bard is a professional poet, musician, storyteller or historian.  
+<br>
 
 ### Boggart  
 Boggarts are mischievous spirits from Scottish folklore. They are hairy, untidy spirits with unpleasant attitudes. The presence of a boggart in a house can lead to disturbing, poltergeist-like activity.  
