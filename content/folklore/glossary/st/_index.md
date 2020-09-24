@@ -22,6 +22,7 @@ tags: [ "<TAG>" ]
 #  title: "<TOOLTIP>"
 ---
 {{<figure src = "images/s.png">}}
+
 <br>
 
 ### Seachtain na Gaeilge  
@@ -41,8 +42,20 @@ Unforunately, this is a tradition which is fading.
 <br>
 
 
+
 ---
-
-
+<br>
 
 {{<figure src = "images/t.png">}}
+
+<br>
+
+### Tír na nÓg  
+The Island of Eternal Youth and part of the Otherworld. Original home of the **Tuatha Dé Danann**.  
+There are similarities with the Brythonic Isle of Avalon, a magical place where King Arthur was taken following his last battle. The name "Avalon" is thought to have been derived from the Brythonic word for "apple tree", and another name for the Gaelic Otherworld is "**Emain Albach**" which means "Isle of Apple Trees".
+
+<br >
+### Tuatha Dé Danann - The People (Warriors) of the Goddess Danu  
+The Tuatha Dé Danann are said to have inhabited Ireland before the arrival of the **Milesians**. They came to Ireland in a mist, having been expelled from the Otherworld because of their expertise in magic. 
+
+

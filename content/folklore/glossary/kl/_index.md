@@ -25,6 +25,11 @@ tags: [ "<TAG>" ]
 
 
 ---
+<br>
+
+### Lugh Lámhfada  
+Lugh Lámhfada, Lugh of the Long Hand, is a senior Irish god and patron of the arts and crafts, and a member of the **Tuatha Dé Danann**.  
+Following Christian conversion of Ireland, Lugh Lámhfada was demoted by Christian scribes and his name anglicised to "Leprechaun" (a pispronunciation of "Lugh-chromain").   
 
 
 

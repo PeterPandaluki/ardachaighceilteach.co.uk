@@ -24,7 +24,7 @@ tags: [ "<TAG>" ]
 {{<figure src = "images/o.png">}}
 <br>
 ### The Ogham  
-The Ogham is an alphabet, originally of 20 characters, which was used for markers, graves etc.. The earliest known use of ogham is in the first century CE. Each character is associated with a plant and, as such, each has spiritual meaning. (see [Celtic tree magic](/mysticism/celtictreemagic/))
+The Ogham is an alphabet, originally of 20 characters, which was used for markers, graves etc.. The earliest known use of ogham is in the first century CE. Each character is associated with a plant and, as such, each has spiritual meaning. (see [Celtic tree magic](/mysticism/celtictreemagic/))  
 
 
 
