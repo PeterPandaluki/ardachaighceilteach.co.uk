@@ -24,21 +24,30 @@ tags: [ "<TAG>" ]
 {{<figure src = "images/a.png">}}
 
 <br >
-### Anamchara (Amanchairde)
+
+### Anamchara (Amanchairde)  
 
 A soul-friend. Someone who provides spiritual support for another.  
 
 The relationship may vary. An Amanchara can be a mentor, a religious teacher, a guide or simply a friend. The important aspects are the personal, spiritual link and the environment of support, nurture and love.  
 <br>
 
-### Awen
+### Awen  
 
 A mysterious and  ancient Welsh term that is variously tranlated as "poetic insipration" or "Flowing spirit". Seekers might be able access this magical and inspirational flow through meditation or practices such as vision quests.
 
 <br >
 
+### Avalon (Ynys Afallon - The Isle of Apple Trees)  
+
+The mystical island to which King Arthur was taken after the battle of **Camlann**.  
+
+The name "Avalon" is probably derived from the old brythonic word for fruit (or apple) trees - *avellen*. There is a similarity with an old goidelic name for the Otherworld - *Emain Ablach* (the Isle of Apple Trees) - this is consistent with the brythonic view that Arthur did not die but passed to the Otherworld, and will return in times of need.  
+
+Many consider that **Glastonbury Tor**, a prominent feature of the Somerset plain fp , is the site of Avalon; at the time of Arthur, the tor would indeed have been an island surrounded marsh and wetlands, not the beautiful farmland of today.  
 
 
+<br> 
 
 
 

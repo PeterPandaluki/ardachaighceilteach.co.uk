@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Oak"
+title: "Ash"
 subtitle: ""
-image: "oak.jpg"
-small_image: "oak-thumb.jpg"
-# small_url: "oak-thumb.jpg"
+image: "ash.jpg"
+small_image: "ash_thumb.jpg"
+#small_url: "<URL>"
 categories: [ "mysticism" ]
-tags: [ "tree", "magic", "oak" ]
+tags: [ "ash", "tree", "magic" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -20,10 +20,11 @@ tags: [ "tree", "magic", "oak" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
+
+
 ---
-
 <br>
 
-### Protection and healing.  
+#### Prophecy and protection.  
 
-<br>
+

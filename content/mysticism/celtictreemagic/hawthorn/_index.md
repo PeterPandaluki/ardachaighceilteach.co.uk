@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Oak"
+title: "Hawthorn"
 subtitle: ""
-image: "oak.jpg"
-small_image: "oak-thumb.jpg"
-# small_url: "oak-thumb.jpg"
-categories: [ "mysticism" ]
-tags: [ "tree", "magic", "oak" ]
+image: "hawthornblossom.jpg"
+small_image: "hawthornberries_thumb.jpg"
+#small_url: "<URL>"
+categories: [ "<CATEGORY>" ]
+tags: [ "<TAG>" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,9 +21,10 @@ tags: [ "tree", "magic", "oak" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 <br>
 
-### Protection and healing.  
+### Growth and happiness.  
 
-<br>
+
+The Hawthorn also represents fertility and abundance, and is helpful in seeing beings of the Otherworld and elementals from this world.  
+

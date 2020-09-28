@@ -33,6 +33,11 @@ As well as numerous local eisteddfodau held around the country, there is also an
 
 <br>
 
+### Eochaid Ollathair  
+
+An alternative name for **[The Dagda](folklore/glossary/cd/)**.  
+
+<br> 
 
 ---
 
