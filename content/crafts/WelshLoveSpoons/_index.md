@@ -9,7 +9,7 @@ image: "Welsh-Love-Spoon.jpg"
 #small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 showposts: true              #default: true
-posts_title: ""
+posts_title: "Posts"
 #posts_order: "<METADATA_FIELD>" #default: "date"
 #posts_order_reverse: <BOOL>     #default: true
 showbrothers: true           #default: true

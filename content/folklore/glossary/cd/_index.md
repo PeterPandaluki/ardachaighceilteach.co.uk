@@ -35,9 +35,20 @@ A large collection of Scottish spells, prayers, and verse, collected from the Sc
 A gathering.  
 
 Often a celebration with music, singing, dancing, stories. Nowadays, most often associated with traditional music and dance.  
+
 <br>
 
+### Cymraeg (cum-reyeg)  
 
+The Welsh language.  
+
+<br>
+
+### Cymru (pronounced Cum-ree)  
+
+The land of Wales.  
+
+<br>
 
 ---
 
