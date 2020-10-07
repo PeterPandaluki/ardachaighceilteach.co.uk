@@ -25,6 +25,14 @@ tags: [ "<TAG>" ]
 
 <br>
 
+### Mag Mell  
+
+The plain of honey, the golden path cast on the ocean buy the setting sun, and the route to the magical otherworld island, Tir na nÓg.  
+
+
+
+<br>
+
 ### Mòd  
 
 The Scottish Mòd is a gathering or celebration similar to the Welsh [Eisteddfod](/folklore/glossary/ef/). Local Mòds last only a day or two and usually end with a cèilidh with winners' presentations interspersed with music and dancing. Participants might tell stories, recite poetry, stage plays, perform dance, sing or play instruments. Of course, there is always bagpipe and fiddle music.  
