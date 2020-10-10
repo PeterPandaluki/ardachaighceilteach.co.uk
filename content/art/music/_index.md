@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "The Proclaimers"
-subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+title: "Music"
+subtitle: "Celtic Music"
+image: "violin.jpg"
+small_image: "violin_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "music" ]
+tags: [ "music" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

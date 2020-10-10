@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Dougie MacLean"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "dougiemaclean.jpg"
+small_image: "dougiemaclean_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "<CATEGORY>" ]
 tags: [ "<TAG>" ]
@@ -21,4 +21,15 @@ tags: [ "<TAG>" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+
+<br>
+
+{{< youtube wP8A9rtg0iI >}}  
+
+<br>
+
+---
+
+<br>
+
 

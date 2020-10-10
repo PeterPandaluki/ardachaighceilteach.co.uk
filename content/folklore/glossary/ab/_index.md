@@ -27,10 +27,19 @@ tags: [ "<TAG>" ]
 
 ### Anamchara (Amanchairde)  
 
-A soul-friend. Someone who provides spiritual support for another.  
+A soul-friend, in goidellic culture. Someone who provides spiritual support for another.  
 
 The relationship may vary. An Amanchara can be a mentor, a religious teacher, a guide or simply a friend. The important aspects are the personal, spiritual link and the environment of support, nurture and love.  
+
+
 <br>
+
+### Aneirin  
+
+A fifth or sixth century brythonic poet who was probably a court poet for Y Gododdin. Sources differ on when he lived, but it is suspected that he might have been a survivor of the battles of Catraeth, which has been placed around the year 600 C.E., later to write the poem "Y Gododdin" to commemorate the fallen of Catraeth.  
+
+<br>
+
 
 ### Awen  
 
@@ -56,16 +65,32 @@ Many consider that **Glastonbury Tor**, a prominent feature of the Somerset plai
 <br>
 
 ### Banshee (Bean sidhe)  
+
 An inhabitant of the Otherworld known for its dreadful wailing cries. It is said that the cry of the banshee can be a warning of an impending in the family or among friends.   
+
 Bean sidhe (pronounced "ban-shee") means 'female faeries'.  
+
+
 <br>
+
 ### Bard  
 A bard is a professional poet, musician, storyteller or historian.  
+
 <br>
 
 ### Boggart  
 Boggarts are mischievous spirits from Scottish folklore. They are hairy, untidy spirits with unpleasant attitudes. The presence of a boggart in a house can lead to disturbing, poltergeist-like activity.  
+
 <br>
+
+### Brythonic (Brittonic)  
+
+The brythonic people were a group of tribes who shared similar cultures and spoke a P-Celtic tongue. The are represented today by the Welsh, Manx and Bretton people.  
+
+<br>  
+
+
+
 
 
 

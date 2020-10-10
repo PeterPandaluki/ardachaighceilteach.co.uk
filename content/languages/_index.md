@@ -1,20 +1,20 @@
+<!-- --- -->
+<!-- title: "Languages" -->
+<!-- showsections: true                #default: true -->
+<!-- sections_title: "" -->
+<!-- sections_order: "title"  #default: "title" -->
+<!-- #sections_order_reverse: <BOOL>      #default: false -->
+<!-- showposts: true                   #default: true -->
+<!-- posts_title: "" -->
+<!-- #posts_order: "<METADATA_FIELD>"     #default: "date" -->
+<!-- #posts_order_reverse: <BOOL>         #default: true -->
+<!-- #showbrothers: <BOOL>                #default: true -->
+<!-- image: "celtic-cross-2-1226573.jpg" -->
+<!-- --- -->
+
+
+
 ---
-title: "Languages"
-showsections: true                #default: true
-sections_title: ""
-sections_order: "title"  #default: "title"
-#sections_order_reverse: <BOOL>      #default: false
-showposts: true                   #default: true
-posts_title: ""
-#posts_order: "<METADATA_FIELD>"     #default: "date"
-#posts_order_reverse: <BOOL>         #default: true
-#showbrothers: <BOOL>                #default: true
-image: "celtic-cross-2-1226573.jpg"
----
-
-
-
-<!-- ---
 # Template for projects.
 title: "Languages"
 subtitle: ""
@@ -36,7 +36,7 @@ tags: [ "" ]
 #resources:
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
---- -->
+---
 
 <!-- ---
 title: "Languages"
@@ -46,3 +46,4 @@ tags: []
 categories: []
 feature_image: ""
 --- -->
+

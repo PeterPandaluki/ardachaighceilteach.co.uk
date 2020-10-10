@@ -22,7 +22,7 @@ tags: [ "explore", "traditional", "scottish", "laments" ]
 #  title: "<TOOLTIP>"
 ---
 
-### Gaelic Lament
+### Gaelic Lament  
 
 {{< youtube VLXd2wl2f-Q >}}
 
@@ -31,33 +31,39 @@ tags: [ "explore", "traditional", "scottish", "laments" ]
 
 
 
-### An Innis Aigh - gaelic traditional song - in Gàidhlig (Scottish Gaelic) language
+### An Innis Aigh - gaelic traditional song - in Gàidhlig (Scottish Gaelic) language  
 
 {{< youtube YCzUSJo5zqI >}}
 
 ---
 &nbsp;
 
-### Scottish Gaelic Music - Ba Mo Leanabh
+### Scottish Gaelic Music - Ba Mo Leanabh  
 
 {{< youtube gnCI_kFuG3g >}}
 
+---
 
+
+&nbsp;
+
+<br>
+
+
+### A ghaoil, leig dhachaigh gum mhàthair mi  
+
+{{< youtube oLUY_WLMQoc >}}  
+
+<br>
 
 ---
 
-<!-- {{< rawhtml >}}
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnCI_kFuG3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube gYEWEn0INuU >}}  
 
-{{< /rawhtml >}}
+<br>
 
---- -->
-&nbsp;
-
-### A ghaoil, leig dhachaigh gum mhàthair mi
-
-{{< youtube oLUY_WLMQoc >}}
-
+---
 
 

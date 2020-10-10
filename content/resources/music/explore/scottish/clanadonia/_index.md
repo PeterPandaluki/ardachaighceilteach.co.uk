@@ -2,11 +2,11 @@
 # Template for projects.
 title: "Clanadonia"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "clanadonia.jpg"
+small_image: "clanadonia_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "" ]
+tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -19,6 +19,49 @@ tags: [ "<TAG>" ]
 ##For "logo" image files:
 #resources:
 #- src: "logos/<IMAGE_FILE>"
-#  title: "<TOOLTIP>"
+
+# title: "<TOOLTIP>"
 ---
+
+<br>
+
+{{< youtube ZQ_3hsCDp7k >}}  
+
+<br>
+
+---
+
+<br>
+
+{{< youtube hnSNfxjrwck >}}  
+
+<br>
+
+---
+
+<br>
+
+{{< youtube 9CdO1AOXLFs  >}}  
+
+<br>
+
+---
+
+<br>
+
+{{< youtube fwWmcMz0ZVk  >}}  
+
+<br>
+
+---
+
+<br>
+
+{{< youtube r35ONrHrIKY >}}  
+
+<br>
+
+---
+
+
 

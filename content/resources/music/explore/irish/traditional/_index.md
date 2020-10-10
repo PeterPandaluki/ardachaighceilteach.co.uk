@@ -1,9 +1,9 @@
 ---
 # Template for projects.
-title: "Albannach"
-subtitle: ""
-image: "albannach.jpg"
-small_image: "Albannach_live.jpg"
+title: "Traditional"
+subtitle: "Traditional Irish music"
+#image: "<IMAGE_FILE>"
+#small_image: "<IMAGE_FILE>"
 #small_url: "<URL>"
 categories: [ "<CATEGORY>" ]
 tags: [ "<TAG>" ]
@@ -24,7 +24,9 @@ tags: [ "<TAG>" ]
 
 <br>
 
-{{< youtube 2DF-pIojGME >}}  
+### Niamh Farrel and Linda Nic Leòid - Eleanór na Rún.  
+
+{{< youtube sC9v4DCFdcM >}}  
 
 <br>
 
@@ -32,7 +34,10 @@ tags: [ "<TAG>" ]
 
 <br>
 
-{{< youtube RscISrpJgow >}}  
+### Mo Rún Gael Óg.  
+
+
+{{< youtube CSWrTbSwbh0 >}}  
 
 <br>
 
@@ -40,7 +45,9 @@ tags: [ "<TAG>" ]
 
 <br>
 
-{{< youtube l0mypcwk2M4 >}}  
+### Julie Fowlis and Miureann Nic Amhlaoibh - Dá bhFaighfinn Mo Rogha de Thriúr Acu.  
+
+{{< youtube CSWrTbSwbh0 >}}  
 
 <br>
 

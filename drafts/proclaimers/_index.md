@@ -1,9 +1,9 @@
 ---
 # Template for projects.
-title: "Albannach"
+title: "The Proclaimers"
 subtitle: ""
-image: "albannach.jpg"
-small_image: "Albannach_live.jpg"
+image: "proclaimers.jpg"
+small_image: "proclaimers_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "<CATEGORY>" ]
 tags: [ "<TAG>" ]
@@ -18,13 +18,13 @@ tags: [ "<TAG>" ]
 #  copyright: "<COPYRIGHT>"
 ##For "logo" image files:
 #resources:
-#- src: "logos/<IMAGE_FILE>"
+#- src: "logos/"IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
 
 <br>
 
-{{< youtube 2DF-pIojGME >}}  
+{{<youtube El93gRv7ewA >}}  
 
 <br>
 
@@ -32,16 +32,5 @@ tags: [ "<TAG>" ]
 
 <br>
 
-{{< youtube RscISrpJgow >}}  
+{{<>}}
 
-<br>
-
----
-
-<br>
-
-{{< youtube l0mypcwk2M4 >}}  
-
-<br>
-
----

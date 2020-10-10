@@ -88,7 +88,7 @@ unsafe = true
                 { section = "mysticism", label = "MYSTICISM"},
                 # { section = "myths", label = "MYTHS"},
                 { section = "places", label = "PLACES"},
-                { section = "sounds", label = "SOUNDS"},
+                # { section = "sounds", label = "SOUNDS"},
                 { section = "resources", label = "RESOURCES"},
                 { section = "visiting", label = "VISIT"},
                 # { section = "post", label = "NEWS"}
