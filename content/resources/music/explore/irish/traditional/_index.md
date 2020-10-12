@@ -2,11 +2,11 @@
 # Template for projects.
 title: "Traditional"
 subtitle: "Traditional Irish music"
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "irishpub.jpg"
+small_image: "irishpub_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "<CATEGORY>" ]
-tags: [ "<TAG>" ]
+categories: [ "music" ]
+tags: [ "irish", "traditional", "music" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -47,8 +47,28 @@ tags: [ "<TAG>" ]
 
 ### Julie Fowlis and Miureann Nic Amhlaoibh - Dá bhFaighfinn Mo Rogha de Thriúr Acu.  
 
-{{< youtube CSWrTbSwbh0 >}}  
+{{< youtube tu_3-VDi7wY >}}  
 
 <br>
 
 ---
+
+<br>
+
+### Oró sé do bheatha 'bhaile - Aray Zoltán.  
+
+{{< youtube vYiG6AXbvvk >}}  
+
+<br>
+
+
+---
+
+
+<br>
+
+<br>
+
+<br>
+
+<span>Photo by <a href="https://unsplash.com/@themorganlane?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" data-jzz-gui-player="true">Morgan Lane</a> on <a href="https://unsplash.com/s/photos/irish?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" data-jzz-gui-player="true">Unsplash</a></span>
