@@ -1,7 +1,7 @@
 ---
 # Template for projects.
 title: "Isle of Mann"
-subtitle: "Places to visit, things to see."
+subtitle: "The Island of Mystery."
 image: "IsleOfMan.jpg"
 small_image: "IsleOfMan_thumb.jpg"
 #small_url: "<URL>"
