@@ -85,11 +85,11 @@ unsafe = true
                 { section = "histories", label = "HISTORY"},
                 { section = "languages", label = "LANGUAGES"},
                 # { section = "legends", label = "LEGENDS"},
+                { section = "sounds", label = "MUSIC" },
                 { section = "mysticism", label = "MYSTICISM"},
                 # { section = "myths", label = "MYTHS"},
                 { section = "places", label = "PLACES"},
-                # { section = "sounds", label = "SOUNDS"},
-                { section = "resources", label = "RESOURCES"},
+                # { section = "resources", label = "RESOURCES"},
                 { section = "visiting", label = "VISIT"},
                 # { section = "post", label = "NEWS"}
             ]

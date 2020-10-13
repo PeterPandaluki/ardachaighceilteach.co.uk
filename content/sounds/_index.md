@@ -1,11 +1,11 @@
 ---
 # Template for projects.
-title: "Celtic Music"
+title: "Music"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "Violinist_large.jpg"
+small_image: "violinist_less_med.jpg"
 #small_url: "<URL>"
-categories: [ "sounds" ]
+categories: [ "music" ]
 tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
@@ -22,8 +22,7 @@ tags: [ "" ]
 #  title: "<TOOLTIP>"
 ---
 
-#### Coronavirus notice   
+{{< rawhtml >}}
+<a href="https://www.patreon.com/bePatron?u=37655427" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-
-At the moment, there are no live music events. 
-
+{{< /rawhtml >}}
