@@ -24,11 +24,44 @@ tags: [ "brittany" ]
 
 <br>
 
+### Arial Brittany.  
+
+{{< youtube IG4H6gS3SNk >}}  
+
+<br>
+
+
 ---
 
+<br>
 
+### Exploring the Medieval Town of Dinan.  
 
+{{< youtube nqwQRZk1WBA >}}  
 
+<br>
+
+---
+
+<br>
+
+### Northern Brittany.  
+
+{{< youtube zuUhn6uJ2G4 >}}  
+
+<br>
+
+---
+
+<br>
+
+### Southern Brittany.  
+
+{{< youtube RLHbO3hogZU >}}  
+
+<br>
+
+---
 
 
 <br>

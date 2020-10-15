@@ -85,7 +85,7 @@ Boggarts are mischievous spirits from Scottish folklore. They are hairy, untidy 
 
 ### Brythonic (Brittonic)  
 
-The brythonic people were a group of tribes who shared similar cultures and spoke a P-Celtic tongue. The are represented today by the Welsh, Manx and Bretton people.  
+The brythonic people were a group of tribes who shared similar cultures and spoke a P-Celtic tongue. The are represented today by the Welsh, Manx and Breton people.  
 
 <br>  
 

@@ -1,12 +1,12 @@
 ---
 # Template for projects.
 title: "Brittany"
-subtitle: "Bretton music"
+subtitle: "Breton music"
 image: "breizhspirit.jpg"
 small_image: "breizhspirit_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
-tags: [ "brittany", "bretton", "music" ]
+tags: [ "brittany", "breton", "music" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"

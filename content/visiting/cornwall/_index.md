@@ -24,9 +24,43 @@ tags: [ "Cornwall" ]
 
 <br>
 
+### Tourist Attractions.  
+
+{{< youtube Bjvl7P4ePpY >}}  
+
+<br>
+
 ---
 
+<br>
 
+### Places to Visit.  
+
+{{< youtube Rdq7EpbEb6Q >}}  
+
+<br>
+
+
+
+
+---
+
+<br>
+
+### Winter Festivals Of Light.  
+
+{{< youtube 6Ty2W8b5uDA >}}  
+
+<br>
+
+---
+
+<br>
+
+
+
+
+---
 
 
 

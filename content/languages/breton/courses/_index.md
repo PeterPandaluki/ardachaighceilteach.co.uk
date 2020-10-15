@@ -6,7 +6,7 @@ image: "class.jpg"
 small_image: "class_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "courses", "bretton" ]
+tags: [ "courses", "breton" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
