@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Welsh"
-subtitle: ""
-image: "menai.jpg"
-small_image: "menai_thumb.jpg"
+title: "Travel"
+subtitle: "Travel to and from Wales"
+image: "train.jpg"
+small_image: "train_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "languages" ]
-tags: [ "welsh" ]
+categories: [ "visiting", "travel", "wales" ]
+tags: [ "" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,8 +21,4 @@ tags: [ "welsh" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
-<br>
-
-<a href="https://www.patreon.com/bePatron?u=37655427" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 

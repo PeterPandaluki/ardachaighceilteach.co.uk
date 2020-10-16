@@ -21,10 +21,16 @@ tags: [ "ireland" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+<br>
+
+<a href="https://www.patreon.com/bePatron?u=37655427" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+---
+
 
 <br>
 
-### Top PLaces To Visit In Ireland.  
+### Top Places To Visit In Ireland.  
 
 {{< youtube Q3hgixhNr8Y >}}  
 
