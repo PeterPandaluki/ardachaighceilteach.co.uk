@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Languages"
-subtitle: ""
-image: "study.jpg"
-small_image: "study_thumb.jpg"
+title: "Now You're Talking"
+subtitle: "BBC Welsh course for beginners"
+#image: "<IMAGE_FILE>"
+small_image: "nowyouretalkingwelsh.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
-tags: [ "" ]
+tags: [ "welsh", "beginners" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -24,9 +24,14 @@ tags: [ "" ]
 
 <br>  
 
-{{< youtube ri1Vw3w1_10 >}}  
+### Now You're Talking - Programme 1  
+
+{{< youtube 8RgBSQVhJFM >}}  
+
+<br>
+
+---
 
 <br>  
 
----
 

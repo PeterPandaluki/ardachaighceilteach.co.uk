@@ -21,6 +21,16 @@ tags: [ "gàidhlig", "gaelic" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
+<br>
+
+### Scotish Gaelic: Explained.  
+
+{{< youtube ROoWGPsyzFg >}}  
+
+<br>
+
+---
+
 
 <br>
 
