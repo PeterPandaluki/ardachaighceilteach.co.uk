@@ -23,3 +23,68 @@ tags: [ "" ]
 ---
 
 
+<br>
+
+### The Celts - BBC Series - In The Beginning.  
+
+{{< youtube AU1dKfMIEUQ >}}  
+
+<br>  
+
+---
+
+<br>  
+
+### The Celts - BBC Series - Heroes In Defeat.  
+
+{{< youtube OVovskAh5QA >}}  
+
+<br>  
+
+---
+
+<br>  
+
+### The Celts - BBC Series - Sacred Groves.  
+
+{{< youtube GsHghGwdWNg >}}  
+
+<br>  
+
+---
+
+<br>
+
+### The Celts - BBC Series - From Camelot To Christ.  
+
+{{< youtube lfY4-2zKY-g >}}  
+
+<br>
+
+---
+
+<br>
+
+### The Celts - BBC Series - Legend And Reality.  
+
+{{< youtube W_l5yFlEYds >}}  
+
+<br>
+
+---
+
+<br>
+
+### The Celts - BBC Series - A Dead Song?  
+
+{{< youtube wl7X4A_mNeU >}}  
+
+<br>
+
+---
+
+<br>
+
+
+
+
