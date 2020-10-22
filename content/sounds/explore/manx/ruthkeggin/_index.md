@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Traditional Breton Music"
-subtitle: "Music of Brittany"
-image: "Violinist_large.jpg"
-small_image: "Violinist_thumb.jpg"
+title: "Ruth Keggin"
+subtitle: ""
+image: "ruthkeggin.jpg"
+small_image: "ruthkeggin_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "music" ]
-tags: [ "breton", "brittany", "music", "traditional" ]
+tags: [ "manx", "mann", "man" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -22,14 +22,21 @@ tags: [ "breton", "brittany", "music", "traditional" ]
 #  title: "<TOOLTIP>"
 ---
 
+<br>
+
+### Oikan Anys Bethlehem.  
+
+{{< youtube iiz3OioPpfk >}}  
 
 <br>
 
+---
 
-### Celtic Music of Brittany.  
+<br> 
 
+### Irree ni greiney.  
 
-{{< youtube 9-BCQR_89PE >}}  
+{{< youtube hom1ocRrT5s >}}  
 
 <br>
 
@@ -37,33 +44,10 @@ tags: [ "breton", "brittany", "music", "traditional" ]
 
 <br>
 
-### Soazig - Ar Soudarded.  
+### Fin as Oshin.  
 
-{{< youtube 2MImv7d8-DI >}}  
-
-<br>
-
----
-
-<br>
-
-### Imram an Enez.  
-
-{{< youtube nPPWU74aV_4 >}}  
+{{< youtube hCehozjHEO8 >}}  
 
 <br>
 
 ---
-
-<br>
-
-### Ev Chistr 'ta Laou.  
-
-{{< youtube lCum1dIt5FE >}}  
-
-<br>
-
----
-
-
-

@@ -64,6 +64,26 @@ tags: [ "irish", "traditional", "music" ]
 
 ---
 
+<br>
+
+### The Music of Ireland - Jigs and Reels.  
+
+{{< youtube _3xeTpgLP5o >}}  
+
+<br>
+
+---
+
+<br>
+
+### Rolling in the Barrel - Uilleann pipes and mandolin.  
+
+{{< youtube txZ3FgIkHZg >}}  
+
+<br>
+
+---
+
 
 <br>
 

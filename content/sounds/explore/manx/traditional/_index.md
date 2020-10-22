@@ -24,6 +24,26 @@ tags: [ "manx", "mann", "music", "traditional"]
 
 <br>
 
+### Ruth Keggin - Oikan Anys Bethlehem.  
+
+{{< youtube iiz3OioPpfk >}}  
+
+<br>
+
+---
+
+<br>
+
+### Ruth Keggin - Irree ni greiney.  
+
+{{< youtube hom1ocRrT5s >}}  
+
+<br>
+
+---
+
+<br>
+
 ### When Night-Shadows Lie on the Sea.  
 
 {{< youtube 7DLh5U3uJPM >}}  

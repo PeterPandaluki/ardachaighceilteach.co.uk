@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Listen"
-subtitle: "Just relax and listen."
-image: "gramophone.jpg"
-small_image: "gramophone_thumb.jpg"
+title: "History of Celtic Languages"
+subtitle: ""
+image: "knight.jpg"
+small_image: "knight_thumb.jpg"
 #small_url: "<URL>"
-categories: [ "music" ]
-tags: [ "listen" ]
+categories: [ "languages" ]
+tags: [ "history" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
@@ -21,5 +21,4 @@ tags: [ "listen" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-
 
