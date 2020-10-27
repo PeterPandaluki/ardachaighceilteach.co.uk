@@ -65,3 +65,44 @@ tags: [ "irish" ]
 
 ---  
 
+### Irish Lesson #8 - Mixing Positives and Negatives  
+
+{{< youtube I1wrLMatXUE >}}
+
+---  
+
+### Irish Lesson #9 - Describing People  
+
+{{< youtube BZfJpnqX-Xo >}}
+
+---  
+
+### Irish Lesson #10 - Showing Emphasis with Pronouns  
+
+{{< youtube 1eihussU94k >}}
+
+---  
+
+### Irish Lesson #11 - Using Emphatic Pronouns to Compare  
+
+{{< youtube h7WD3CPk3ME >}}
+
+---  
+
+### Irish Lesson #12 - Talking About the Weather  
+
+{{< youtube Kx4VxFA53qQ >}}
+
+---  
+
+### Irish Lesson #13 - Asking About the Weather  
+
+{{< youtube rO_okpxpPwE >}}
+
+---  
+
+### Irish Lesson #14 - Asking "How is the Weather?"  
+
+{{< youtube 5QR4VqHgj6Y >}}
+
+---  

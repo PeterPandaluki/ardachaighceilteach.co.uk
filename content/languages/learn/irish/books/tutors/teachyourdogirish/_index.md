@@ -22,4 +22,8 @@ tags: [ "bookes", "tutors", "irish" ]
 #  title: "<TOOLTIP>"
 ---
 
+<a href="https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Irish/23963704" target="_blank"><img src="/images/teachdogirish.jpg"></a>
+
+
+
 [Teach Your Dog Irish](https://www.hive.co.uk/Product/Anne-Cakebread/Teach-Your-Dog-Irish/23963704) is a light-hearted illustrated introduction to the Irish language.

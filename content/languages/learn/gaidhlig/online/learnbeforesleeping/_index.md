@@ -21,11 +21,15 @@ tags: [ "gaelic" ]
 #- src: "logos/<IMAGE_FILE>"
 #  title: "<TOOLTIP>"
 ---
-<!-- 
-### Learn before Sleeping - Scottish Gaelic (native speaker) - with music 
 
-#### An eight hour presentation!
+### Learn before Sleeping - Scottish Gaelic (native speaker) - with music  
+
+#### An eight hour presentation!  
+
+<br>
 
 {{< youtube DD4sr_kWWFw >}}
 
---- -->
+<br>
+
+---
