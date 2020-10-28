@@ -27,7 +27,7 @@ password = 'CathM009'
 # Add header to message
 message_text = """  + message
 From: {} <{}>
-To: {} <{}>
+To: <{}>
 Subject: {}
 
 
@@ -46,7 +46,7 @@ def send_messages():
     with open(addressfile) as file:
         reader = csv.reader(file)
         next(reader)  # Skip header row
-        for name, surname, to_address in reader:
+        for to_address in reader:
             # message = MIMEMultipart('alternative')
             # message['From'] = from_address
             # message['To'] = to_address
@@ -54,7 +54,6 @@ def send_messages():
             # message.attach(MIMEText(message_text, 'text'))
             message_to_send = message_text.format(my_name,
                                                   from_address,
-                                                  name,
                                                   to_address,
                                                   message_subject)
             server.sendmail(from_address,

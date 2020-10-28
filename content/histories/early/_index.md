@@ -1,12 +1,12 @@
 ---
 # Template for projects.
-title: "Warfare"
+title: "Early History"
 subtitle: ""
 image: "war.jpg"
 small_image: "war_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "histories" ]
-tags: [ "war", "warfare", "celtic" ]
+tags: [ "early", "warfare", "celtic" ]
 #images_directory; "images"
 #images_static: "false"
 #images_copyright: "<COPYRIGHT>"
