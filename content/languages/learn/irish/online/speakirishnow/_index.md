@@ -106,3 +106,20 @@ tags: [ "irish" ]
 {{< youtube 5QR4VqHgj6Y >}}
 
 ---  
+
+<br>  
+<br>  
+<br>  
+
+<img src="images/speakirishnow.jpg">  
+
+<br>  
+<br>  
+
+
+[**Course Book.**](languages/learn/irish/books/tutors/speakirishnow/)
+
+<br>
+<br>
+
+---

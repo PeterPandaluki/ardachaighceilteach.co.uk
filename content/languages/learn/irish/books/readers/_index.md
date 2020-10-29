@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Readers"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "reader.jpg"
+small_image: "reader_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "irish", "reader", "books" ]

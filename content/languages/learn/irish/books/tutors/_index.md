@@ -2,8 +2,8 @@
 # Template for projects.
 title: "language tutors"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "tutor.jpg"
+small_image: "tutor_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "books", "tutors", "irish" ]

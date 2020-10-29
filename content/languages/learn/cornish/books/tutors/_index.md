@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Language tutors"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "tutor.jpg"
+small_image: "tutor_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "cornish", "books" ]
@@ -22,10 +22,3 @@ tags: [ "cornish", "books" ]
 #  title: "<TOOLTIP>"
 ---
 
-<b>CLIENT:</b> ...<br>
-
-<b>DESCRIPTION:</b><br>
-...<br>
-
-<b>ROLE:</b><br>
-...<br>

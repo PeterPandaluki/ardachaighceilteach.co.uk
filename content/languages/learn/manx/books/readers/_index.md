@@ -2,8 +2,8 @@
 # Template for projects.
 title: "Manx readers"
 subtitle: ""
-#image: "<IMAGE_FILE>"
-#small_image: "<IMAGE_FILE>"
+image: "reader.jpg"
+small_image: "reader_thumb.jpg"
 #small_url: "<URL>"
 categories: [ "languages" ]
 tags: [ "books", "readers", "reading", "manx" ]
