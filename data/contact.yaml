@@ -5,7 +5,7 @@ photo: "user-tie.png"
 description: "Contact Cathal with questions or suggestions below:"
 
 email:
-  address: "cathalseoin@gmail.com"
+  address: "cathalmacseoin@gmail.com"
   link: false
   icon: "fa-envelope"
   icon-pack: "fas"
@@ -13,10 +13,10 @@ email:
 social:
 - icon: "fa-twitter"
   icon_pack: "fab"
-  link: "https://twitter.com/@CSeoin"
+  # link: "https://twitter.com/@CSeoin"
 - icon: "fa-patreon"
   icon_pack: "fab"
-  link: "https://www.patreon.com/cathalSeoin?fan_landing=true"
+  # link: "https://www.patreon.com/cathalSeoin?fan_landing=true"
 ---
 
   
